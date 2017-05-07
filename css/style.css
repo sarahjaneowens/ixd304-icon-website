@@ -200,34 +200,13 @@ figure {
     color:whitesmoke;}
 
 
-#ipad-mock {
-    margin-top: -3em;
-    float: right;
-    margin-right:0.3em;}
-
-
-#mac-mock {
-    margin-top: -6em;
-    margin-left: -6em;
-    position: absolute;}
-
-
-#laptop-mock {
-    margin-top:-3em;
-    margin-left: 17em;
-    position: absolute;}
-
-#mobile-mock {
-    margin-top: 7.5em;
-    margin-left: 58em;
-    position: absolute;}
+#mockups {width: 100%;
+margin-bottom: -20em;
+margin-top: -4em;}
 
 .image-mockups {
     background-color: #bfe6ef;
     margin-top: -10em;}
-
-
-#print-mocks {margin-left: 5em;}
 
 
 #wrap {

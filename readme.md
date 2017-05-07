@@ -1,3 +1,3 @@
-<h2>IXD302 New Zealand Bird Project</h2>
+<h2>IXD304 ICON WEBSITE</h2>
 
-+ [HTML](http://sarahjaneowens.github.io/ixd304-icon-website/index.html)
++ [HTML](https://github.com/sarahjaneowens/ixd304-icon-website/blob/gh-pages/index.html)
