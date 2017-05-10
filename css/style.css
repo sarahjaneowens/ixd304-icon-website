@@ -116,6 +116,7 @@ margin-bottom:-1em;}
 
 .monster1 {
     background-color: #5b4da0;
+    margin-top: -1em;
     color: white;}
 
 .monster2 {
@@ -178,6 +179,8 @@ figure {
 
 .right-side {float: left;}
 
+.left-side {float:right;}
+
 
 .about-monsters-right {
     float:right;
@@ -202,7 +205,7 @@ figure {
     color:whitesmoke;}
 
 
-#mockups {width: 100%;
+#mockups {
 margin-bottom: -25em;
 margin-top: -4em;}
 
@@ -344,4 +347,130 @@ margin-top: -8em;}
     background:#0099b4;
     font-size: 15px;
     text-align: center;}
+
+
+
+
+@media only screen and (max-width: 500px) {
+    #mockups {
+        width:23em;
+        margin-left: -5em;
+    }
+
+    .footer-bg {
+        width:29em;
+        margin-top: -7em;}
+    
+    footer {}
+    
+    
+    #download-h3 {margin-left: 1.9em;
+    font-size: 20px;
+    margin-top: -10.5em;}
+    
+    #dl-info {font-size: 15px;
+    margin-left: -82px;
+    width: 350;}
+    
+    
+    #mockup-h3 {
+        margin-top: -20em;
+        margin-left: -2em;
+        width: 400;
+        font-size: 25px;}
+    
+    
+    #download-info1 {
+    width:300;
+    text-align: justify;
+    position: absolute;
+    margin-top: -30.5em;
+    margin-left: -3.5em;
+    font-size:13px;}
+
+    
+    #download-info2 {
+    width:300;
+    text-align: justify;
+    position: absolute;
+    margin-top: -21em;
+    margin-left: -3.5em;
+    font-size:15px;}
+    
+    .btn-slide {
+        margin-top: -18em;
+        height: 30px;
+        width: 159px;}
+    
+    .btn-slide span.circle {
+    height: 20px;
+    width: 20px;}
+        
+  .btn-slide span.title,
+  .btn-slide span.title-hover{
+    left: 45px;
+    top: -8.3px;
+    font-size: 18px;}
+
+    .image-mockups {
+    height: 20em;}
+    
+    p {
+    font-size: 16px;}
+    
+    .about-monsters-right {
+        margin-right: -3.2em;
+        width: 300;
+    }
+    
+    .about-monsters {margin-left: -3em;
+    width: 300;}
+    
+    .left-side {margin-right: -4.5em;}
+    
+    .right-side {margin-left: -4.5em;}
+    
+    h3 {font-size: 35px;}
+    
+    #gandalf-h3 {font-size: 35px;}
+    
+    #about-info1 {
+    font-size: 11px;
+    margin-top: -11.8em;
+    margin-left: 2em;
+    width: 350;}
+    
+    #about-info2 {
+    font-size: 11px;
+    margin-top: -9.2em;
+    margin-left: 2em;
+    width: 350;}
+    
+    #about-info3 {
+    font-size: 11px;
+    margin-left: 2em;
+    width: 350;}
+    
+    #scrolldown {
+    font-size: 11px;
+    margin-top: -17em;
+    margin-left: 2em;
+    width: 350;}
+    
+    #about-h2 {
+    font-size: 25px;
+    margin-left: 4.4em;
+    margin-top: -210px;}
+    
+    
+    #home-h1 {
+   font-size: 50px;}
+
+    #home-h2 {
+    font-size: 40px;
+    margin-top: 9em;}
+    
+    
+    
+
 
