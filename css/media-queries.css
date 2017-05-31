@@ -3,10 +3,11 @@
         width:23em;
         margin-left: -5em;
     }
-
-    .footer-bg {
-        width:29em;
-        margin-top: -7em;}
+    
+    
+    
+    
+    /* download section */
     
     
     #download-h3 {margin-left: 1.9em;
@@ -16,14 +17,6 @@
     #dl-info {font-size: 13px;
     margin-left: -75px;
     width: 350;}
-    
-    
-    #mockup-h3 {
-        margin-top: -20em;
-        margin-left: -4.5em;
-        width: 400;
-        font-size: 25px;}
-    
     
     #download-info1 {
     width:300;
@@ -47,17 +40,35 @@
         width: 159px;}
     
     .btn-slide span.circle {
-    height: 20px;
-    width: 20px;}
+        height: 20px;
+        width: 20px;}
         
   .btn-slide span.title,
   .btn-slide span.title-hover{
     left: 45px;
     top: -8.3px;
     font-size: 18px;}
+    
+    
+    /* footer */
+
+    .footer-bg {
+        width:29em;
+        margin-top: -7em;}
+
+    
+    #mockup-h3 {
+        margin-top: -20em;
+        margin-left: -4.5em;
+        width: 400;
+        font-size: 25px;}
+    
 
     .image-mockups {
     height: 20em;}
+    
+    
+     /* About */
     
     p {
     font-size: 15px;}
@@ -107,29 +118,57 @@
     font-size: 25px;
     margin-left: 4.4em;
     margin-top: -210px;}
+
+    .monster6 {margin-bottom: 0em}
+    .monster11 {margin-bottom: 0em}
     
-    #home-h1 {
+    #harry {margin-right: 1.5em;
+        width:16em;}
+    
+    #buzz {
+        width: 23em;
+        margin-left: -0.7em;}
+    
+    #wolverine {
+        margin-left: 3em;
+        width: 16em;}
+    
+    
+    #woody {width: 18em;}
+    
+    #wonder {
+        margin-right: 1em;
+        width: 16em;}
+    
+    #littlered {
+        margin-left: 1em;
+        width: 20em;}
+    
+    #minnie {
+        margin-left: 3em;
+        width: 16em;}
+    
+    #captain {
+        margin-bottom: -3em;
+        width:18em;
+        margin-left: 2.5em;}
+    
+    #mario {width: 15em;
+    margin-right: 2em;}
+    
+    #gandalf {width: 17em;
+    margin-right: 1em;}
+    
+    
+    /* home text */
+    
+    
+     #home-h1 {
    font-size: 50px;}
 
     #home-h2 {
     font-size: 40px;
     margin-top: 9em;}
-    
-    #buzz {width: 23em;
-    margin-left: -0.7em;}
-    
-    #wolverine {margin-left: 1.8em;}
-    #woody {margin-right: -3em;}
-    #wonder {margin-right: -0.5em;}
-    #littlered {margin-left: -0.9em;}
-    #minnie {margin-left: 1.5em;}
-    
-    
-    #captain {
-        margin-bottom: -3em;
-        margin-left: -1em;}
-    
-    .monster6 {margin-bottom: 0em}
     
 
 
