@@ -1,27 +1,23 @@
 @media only screen and (max-width: 500px) {
-    #mockups {
-        width:23em;
-        margin-left: -5em;
-    }
-    
-    
-    
+   
     
     /* download section */
     
     
-    #download-h3 {margin-left: 1.9em;
-    font-size: 20px;
-    margin-top: -10.5em;}
+    #download-h3 {
+        margin-left: 1.7em;
+        font-size: 25px;
+        margin-top: -8em;}
     
-    #dl-info {font-size: 13px;
-    margin-left: -75px;
-    width: 350;}
+    #dl-info {
+        font-size: 13px;
+        margin-left: -50px;
+        width: 300;}
     
     #download-info1 {
     width:300;
     position: absolute;
-    margin-top: -30.5em;
+    margin-top: -32em;
     margin-left: -4.5em;
     font-size:13px;}
 
@@ -30,7 +26,7 @@
     width:300;
     text-align: justify;
     position: absolute;
-    margin-top: -24em;
+    margin-top: -26em;
     margin-left: -4.5em;
     font-size:13px;}
     
@@ -53,15 +49,21 @@
     /* footer */
 
     .footer-bg {
-        width:29em;
+        width:31em;
         margin-top: -7em;}
 
     
     #mockup-h3 {
-        margin-top: -20em;
-        margin-left: -4.5em;
+        margin-top: -22em;
+        margin-left: -4em;
         width: 400;
         font-size: 25px;}
+    
+    
+     #mockups {
+        width:23em;
+        margin-left: -5em;
+    }
     
 
     .image-mockups {
@@ -153,22 +155,37 @@
         width:18em;
         margin-left: 2.5em;}
     
-    #mario {width: 15em;
+    #mario {
+        width: 15em;
     margin-right: 2em;}
     
-    #gandalf {width: 17em;
+    #gandalf {
+        width: 17em;
     margin-right: 1em;}
+    
+    #mike {
+        width: 15em;
+    margin-left: 3.8em;}
+    
+    #winnie {width: 14em;
+    margin-right: 2.5em;}
     
     
     /* home text */
     
     
      #home-h1 {
-   font-size: 50px;}
+   font-size: 50px;
+    margin-bottom: 39em;}
 
     #home-h2 {
     font-size: 40px;
-    margin-top: 9em;}
+    margin-top: 1em;
+    margin-bottom: 1em;}
+    
+    
+    .mainbg {margin-top: -131em;}
+    
     
 
 
