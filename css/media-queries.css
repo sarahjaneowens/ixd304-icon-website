@@ -8,31 +8,28 @@
         width:29em;
         margin-top: -7em;}
     
-    footer {}
-    
     
     #download-h3 {margin-left: 1.9em;
     font-size: 20px;
     margin-top: -10.5em;}
     
-    #dl-info {font-size: 15px;
-    margin-left: -82px;
+    #dl-info {font-size: 13px;
+    margin-left: -75px;
     width: 350;}
     
     
     #mockup-h3 {
         margin-top: -20em;
-        margin-left: -2em;
+        margin-left: -4.5em;
         width: 400;
         font-size: 25px;}
     
     
     #download-info1 {
     width:300;
-    text-align: justify;
     position: absolute;
     margin-top: -30.5em;
-    margin-left: -3.5em;
+    margin-left: -4.5em;
     font-size:13px;}
 
     
@@ -40,9 +37,9 @@
     width:300;
     text-align: justify;
     position: absolute;
-    margin-top: -21em;
-    margin-left: -3.5em;
-    font-size:15px;}
+    margin-top: -24em;
+    margin-left: -4.5em;
+    font-size:13px;}
     
     .btn-slide {
         margin-top: -18em;
@@ -63,21 +60,22 @@
     height: 20em;}
     
     p {
-    font-size: 16px;}
+    font-size: 15px;}
     
     .about-monsters-right {
         margin-right: -3.2em;
-        width: 300;
-    }
+        width: 300;}
     
-    .about-monsters {margin-left: -3em;
-    width: 300;}
+    .about-monsters {
+        margin-left: -3em;
+        width: 300;}
     
-    .left-side {margin-right: -4.5em;}
+    .left-side {margin-right: -3.5em;}
     
     .right-side {margin-left: -4.5em;}
     
-    h3 {font-size: 35px;}
+    h3 {font-size: 35px;
+    text-align: center;}
     
     #gandalf-h3 {font-size: 35px;}
     
@@ -110,7 +108,6 @@
     margin-left: 4.4em;
     margin-top: -210px;}
     
-    
     #home-h1 {
    font-size: 50px;}
 
@@ -118,7 +115,21 @@
     font-size: 40px;
     margin-top: 9em;}
     
-    #buzz {width: 23em;}
+    #buzz {width: 23em;
+    margin-left: -0.7em;}
+    
+    #wolverine {margin-left: 1.8em;}
+    #woody {margin-right: -3em;}
+    #wonder {margin-right: -0.5em;}
+    #littlered {margin-left: -0.9em;}
+    #minnie {margin-left: 1.5em;}
+    
+    
+    #captain {
+        margin-bottom: -3em;
+        margin-left: -1em;}
+    
+    .monster6 {margin-bottom: 0em}
     
 
 
